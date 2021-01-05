@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="left" alt="AndriyKikot's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AndriyKikot&show_icons=true&hide_border=true&theme=dracula" />
-<br />
-<img align="left" alt="AndriyKikot's Top Lengs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKikot&layout=compact" />
-
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=AndriyKikot&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dracula)](https://github.com/AndriyKikot/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=AndriyKikot&layout=compact)](https://github.com/AndriyKikot/github-readme-stats)
