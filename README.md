@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" alt="AndriyKikot's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AndriyKikot&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="AndriyKikot's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AndriyKikot&show_icons=true&hide_border=true&theme=dracula" />
 
 <br />
 <br />
