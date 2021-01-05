@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="right" alt="AndriyKikot's Top Lengs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKikot&layout=compact" />
+<img align="left" alt="AndriyKikot's Top Lengs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKikot&layout=compact" />
 
