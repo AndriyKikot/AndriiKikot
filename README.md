@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AndriyKikot&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/AndriyKikot/github-readme-stats)
+<img align="left" alt="AndriyKikot's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AndriyKikot&show_icons=true&hide_border=true&theme=dracula" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKikot&layout=compact)](https://github.com/AndriyKikot/github-readme-stats)
+<img align="left" alt="AndriyKikot's Top Lengs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriyKikot&layout=compact" />
+
