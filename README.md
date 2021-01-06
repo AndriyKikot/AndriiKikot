@@ -2,7 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-andray838@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andray838@gmail.com)](mailto:andray838@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-AndriyKikot-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrii-kikot/)](https://www.linkedin.com/in/andrii-kikot/) 
 [![Github Badge](https://img.shields.io/badge/-AndriyKikot-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndriyKikot/)](https://www.github.com/AndriyKikot/)
-![Profile views](https://gpvc.arturio.dev/AndriyKikot)
 
 <!--
 **AndriyKikot/AndriyKikot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
