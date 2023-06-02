@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AndriyKikot-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrii-kikot/)](https://www.linkedin.com/in/andrii-kikot/) 
 
 <!--
-**AndriyKikot/AndriyKikot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AndriyKikot/AndriiKikot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
